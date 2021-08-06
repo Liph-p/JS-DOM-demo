@@ -1,1 +1,1 @@
-# JS-DOM-demo
+# JavaScript-DOM-demo
